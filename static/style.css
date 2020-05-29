@@ -10,6 +10,10 @@ a {
     color: black;
 }
 
+h1 {
+    text-transform: lowercase;
+}
+
 h1, h4 {
     font-family: 'Major Mono Display', monospace;
 }
